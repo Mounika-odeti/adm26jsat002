@@ -1,0 +1,5 @@
+bank.Name=ICICI
+bank.Address=Chennai
+bank.Cname=Mounika
+bank.accn0=12345678
+bank.acctype=Savings
